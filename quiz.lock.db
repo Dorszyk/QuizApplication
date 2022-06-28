@@ -1,0 +1,6 @@
+#FileLock
+#Tue Jun 28 16:30:30 CEST 2022
+server=192.168.0.20\:59645
+hostName=192.168.0.20
+method=file
+id=181aab88b2114318c6f481e4b15b72f46675d18f197
